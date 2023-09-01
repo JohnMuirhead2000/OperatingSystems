@@ -1,0 +1,1 @@
+../test-lib/run_tests.sh: line 23: 63378 Segmentation fault: 11  ./wgrep
